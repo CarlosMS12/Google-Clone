@@ -88,6 +88,9 @@ main .main-input input {
     color: white;
 }
 
+main .main-input input:hover {
+    background-color: #303134;
+}
 .buscari {
     fill: currentColor;
     height: 24px;
